@@ -7,3 +7,4 @@ This project implemented the **Slow-Pitch Automated Review Calculation (SLOW-ARC
 ## Key Features:
 1) **Automated Verdicts:** The system automatically determines whether a pitch crosses through the strike zone.
 2) **Pitch Data Analysis:** Utilizing pitch data files with precise coordinates, the system performs in-depth analysis of pitch tracks and player positions.
+3) **Objective Assessment:** By removing subjective judgment, the system enables objective and fair judgment in game review processes.
