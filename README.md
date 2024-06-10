@@ -40,7 +40,7 @@ Ball (short pitch):<br>
 Ball (see front view image):<br>
 ![](images/ball3.gif)<br>
 Front view image:<br>
-![](images/ball3_front.png)
+![](images/ball3_front.bmp)
 
-Strike<br>
+Strike:<br>
 ![](images/strike.gif)
