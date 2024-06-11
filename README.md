@@ -9,6 +9,9 @@ This project implemented the **Slow-Pitch Automated Review Calculation (SLOW-ARC
 2) **Pitch Data Analysis:** Utilizing pitch data files with precise coordinates, the system performs in-depth analysis of pitch tracks and player positions.
 3) **Objective Assessment:** By removing subjective judgment, the system enables objective and fair judgment in game review processes.
 
+**SLOW-ARC Class Diagram:**
+![](images/SLOW-ARC_ClassDiagram.bmp)
+
 **SLOW-ARC Sequence Diagram:**
 ![](images/sequence_diagram.bmp)
 
@@ -44,3 +47,5 @@ Front view image:<br>
 
 Strike:<br>
 ![](images/strike.gif)
+
+For more details about the system, please refer to the [**Software Requirements Specification**](documents/SRS_v_3.0.pdf) and [**Design Document**](documents/DesignDoc.docx.pdf).
